@@ -11,7 +11,7 @@ import socket
 DOMAIN_FILE = "domains.txt"
 
 # 2. WHOIS Notification schedule
-NOTIFY_WHOIS_SPECIFIC_DAYS = [60, 45, 30, 15]
+NOTIFY_WHOIS_SPECIFIC_DAYS = [60, 59, 58, 45, 30, 15]
 NOTIFY_WHOIS_DAILY_BEFORE_DAYS = 10 # 10 দিন আগে থেকে প্রতিদিন
 
 # 3. SSL Notification schedule
